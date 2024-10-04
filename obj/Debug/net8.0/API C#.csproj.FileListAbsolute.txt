@@ -1,0 +1,32 @@
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\bin\Debug\net8.0\appsettings.json
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\bin\Debug\net8.0\API C#.exe
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\bin\Debug\net8.0\API C#.deps.json
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\bin\Debug\net8.0\API C#.runtimeconfig.json
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\bin\Debug\net8.0\API C#.dll
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\bin\Debug\net8.0\API C#.pdb
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\API C#.csproj.AssemblyReference.cache
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\API C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\API C#.AssemblyInfoInputs.cache
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\API C#.AssemblyInfo.cs
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\API C#.csproj.CoreCompileInputs.cache
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\API C#.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\API C#.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\staticwebassets\msbuild.API C#.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\staticwebassets\msbuild.build.API C#.props
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API C#.props
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API C#.props
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\scopedcss\bundle\API C#.styles.css
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\API C#.csproj.Up2Date
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\API C#.dll
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\refint\API C#.dll
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\API C#.pdb
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\API C#.genruntimeconfig.cache
+C:\Users\lisan\OneDrive\Documentos\PROYECTOS\C#\API C#\obj\Debug\net8.0\ref\API C#.dll
